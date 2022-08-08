@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{min-height:800px;
+padding-bottom: 50px;}
+.back{
+    background-image: url(/images/3.jpg);
+}
+.homelink{
+    text-decoration: none;
+    color:rgb(141, 115, 74);
+    display:flex;
+    justify-content:center;
+}
+.homelink:hover{
+    color:pink
+}
+.heading{
+color: rgb(159, 125, 93);
+}
+.span{
+    background-color:none;
+    display: inline-block;
+   
+}
+.article{
+    color: white;
+    background-color: #B4B2AF;
+  
+}
+.aboutback{
+    background-image: url(/images/5.jpg);
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 65px;
+}
